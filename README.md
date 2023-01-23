@@ -1,3 +1,3 @@
 # Qiuz-App-2
 
-Created this Gk App Test it Out
+Created this General knowledge Testing App Test it Out
